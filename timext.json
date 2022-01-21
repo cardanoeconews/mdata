@@ -3,9 +3,10 @@
         "url_png_icon_64x64": "https://timmyverse.com/images/sp64x64.png",
         "url_png_logo": "https://timmyverse.com/images/splogo.png",
         "location": "Calgary, Canada",
+        "poolclaim": "223bbf6c7f271ebc56768eb94630a80b",
         "social": {
             "twitter_handle": "CardanoEcoNews",
             "youtube_handle": "UCIdNUwf_Fe0IqMuRAfh-wLw"
-        }
+        },
     }
 }
