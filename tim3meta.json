@@ -1,0 +1,7 @@
+{
+    "name": "Timmy3 Pool",
+    "description": "Timmy the cat's third pool. Welcome to the Timmyverse!",
+    "ticker": "TIM3",
+    "homepage": "https://timmyverse.com",
+    "extended": "https://raw.githubusercontent.com/cardanoeconews/mdata/main/timext.json"
+}
